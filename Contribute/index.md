@@ -30,25 +30,25 @@ The user experience on Microsoft Learn integrates [GitHub](https://github.com) w
 
 ## Quick edits to documentation
 
-Quick edits streamline the process to report and fix small errors and omissions in documentation. Despite all efforts, small grammar and spelling errors _do_ make their way into our published documents. While you can create issues to report mistakes, it's faster and easier to create a PR to fix the issue, when the option is available.
+Quick edits streamline the process to report and fix small errors and omissions in documentation. Despite all efforts, small grammar and spelling errors _do_ make their way into our published documents. Although you can create issues to report mistakes, it's faster and easier to create a PR to fix the issue, when the option is available.
 
-1. _Some_ docs pages allow you to edit content directly in the browser. If so, you'll see an **Edit** button like the one shown below. Choosing the **Edit** (or equivalently localized) button takes you to the source file on GitHub.
+1. _Some_ docs pages allow you to edit content directly in the browser. If so, you'll see an **Edit** button such as the one that's shown here. Select the **Edit** (or equivalently localized) button to see the source file on GitHub.
 
    :::image type="content" source="media/index/edit-article.png" alt-text="Location of the edit article link.":::
 
-   If the **Edit** button isn't present, it means the content isn't open to public contributions.  Some pages are generated (for example, from inline documentation in code) and must be edited in the project they belong to.
+   If the **Edit** button isn't present, it means the content isn't open to public contributions. Some pages are generated (for example, from inline documentation in code) and must be edited in the project they belong to.
 
 2. Select the pencil icon to edit the article. If the pencil icon is grayed out, you need to either log in to your GitHub account or create a new account.
 
    :::image type="content" source="media/index/edit-icon.png" alt-text="Location of the fork and edit pencil icon.":::
 
-3. Edit the file in the web editor. Choose the **Preview** tab to check the formatting of your changes.
+3. Edit the file in the web editor. To check the formatting of your changes, select the **Preview** tab.
 
-4. When you're finished editing, scroll to the bottom of the page. In the **Propose changes** area, enter a title and optionally a description for your changes. The title will be the first line of the commit message. Select **Propose changes** to commit your changes:
+4. When you're finished editing, scroll to the bottom of the page. In the **Propose changes** area, enter a title and, optionally, a description for your changes. The title will be the first line of the commit message. Select **Propose changes** to commit your changes:
 
    :::image type="content" source="media/index/commit-changes.png" alt-text="Propose and commit file changes.":::
 
-5. Now that you've proposed and committed your changes, you need to ask the owners of the repository to "pull" your changes into their repository. This is done using something called a "pull request" (PR). When you select **Propose changes**, a new page similar to the following is displayed:
+5. Now that you've proposed and committed your changes, you need to ask the owners of the repository to "pull" your changes into their repository. This is done by using something known as a "pull request" (PR). When you select **Propose changes**, a new page that resembles the following is displayed:
 
    :::image type="content" source="media/index/create-pull-request.png" alt-text="Compare changes and create pull request.":::
 
